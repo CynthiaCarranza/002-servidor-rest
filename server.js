@@ -64,7 +64,7 @@ app.delete('/.usuario/:id',function(req, res){
     id: id
   });
 
-});
+});git 
   
 
 
